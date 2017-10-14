@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+*******************************************************************************;
+$1
+]]></content>
+	<tabTrigger>line</tabTrigger>
+	<scope>source.sas, source.stata</scope>
+</snippet>

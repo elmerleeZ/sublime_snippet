@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+																	${1:MM}/${2:DD}/2015
+--------------------------------------------------------------------------------
+$3
+]]></content>
+	<tabTrigger>dateline</tabTrigger>
+	<scope>text.plain</scope>
+</snippet>

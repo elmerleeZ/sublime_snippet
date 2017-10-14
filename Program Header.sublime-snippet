@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+/****************************************************************************
+Program Name:	$TM_FILENAME
+Location:		$2$TM_FILEPATH
+Author:			$TM_FULLNAME
+Date Created:	$3
+Project:		
+Purpose:		
+Input:			
+Input Filters:	
+Output:			
+Output Aggr'n:	
+Notes:			
+************** Revision History *********************************************
+Name			Date		Purpose
+
+****************************************************************************/
+$4
+]]>
+</content>
+	<tabTrigger>programheader</tabTrigger>
+	<description>Program Header</description>
+	<scope>source.sas,source.stata</scope>
+</snippet>

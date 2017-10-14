@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+capture log close
+log using "$1", text replace
+/****************************************************************************
+Program Name:   $1.do
+Location:       GitHub\
+Author:         Zongyang (Elmer) Li
+Date Created:   $2 2017
+Project:        
+****************************************************************************/
+
+
+************************************************************
+************************************************************
+********************    END PROGRAM    *********************
+************************************************************
+************************************************************
+
+log close
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>t</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.stata</scope> 
+</snippet>

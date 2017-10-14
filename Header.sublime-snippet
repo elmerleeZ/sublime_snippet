@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+********${1/./*/g}********
+****    ${1/./ /g}    ****
+****    $1    ****
+****    ${1/./ /g}    ****
+********${1/./*/g}********;
+
+$2
+]]></content>
+	<tabTrigger>header</tabTrigger>
+	<scope>source.sas,source.stata</scope>
+</snippet>
